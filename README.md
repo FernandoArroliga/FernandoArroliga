@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [genericBlog](genericblog.onrender.com)
 
 - 💬 Ask me about **Python, JavaScript, Fortran, SQL, Tableau, Excel**
 
@@ -20,12 +20,12 @@
 
 - 📄 Know about my experiences [PortfolioWebsite](PortfolioWebsite)
 
-- ⚡ Fun fact **I am sleeping.**
+- ⚡ Fun fact **I am cooding!.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernandoarroliga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernandoarroliga" height="30" width="40" /></a>
-<a href="https://instagram.com/fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernando" height="30" width="40" /></a>
+<a href="https://instagram.com/devstoriess/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fernando" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
