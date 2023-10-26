@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
-- 📝 I regularly write articles on [genericBlog](genericblog.onrender.com)
+- 📝 I regularly write articles on [genericBlog](https://genericblog.onrender.com)
 
 - 💬 Ask me about **Python, JavaScript, Fortran, SQL, Tableau, Excel**
 
 - 📫 How to reach me **FernandoArroliga@hotmail.com**
 
-- 📄 Know about my experiences [PortfolioWebsite](PortfolioWebsite)
+- 📄 Know about my experiences [PortfolioWebsite](https://fernandoarroliga.onrender.com)
 
 - ⚡ Fun fact **I am cooding!.**
 
